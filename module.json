@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "Instant join Tera mode",
+    "category" : "client",
+    "author" : "SaltyMonkey",
+    "options" : {
+        "guiName" : "Instant join Tera mode",
+        "niceName" : "Instant join Tera mode"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tera-mode/master/"
+    ]
+}
