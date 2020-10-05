@@ -1,0 +1,1 @@
+# tera-online-instant-join-tera-mode
